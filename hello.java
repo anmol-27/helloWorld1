@@ -4,6 +4,7 @@ public class hello{
 
 		for(int i=0;i<5;i++){
 			System.out.println("Hello");
+				System.out.println("Hi");
 }
 }
 }
